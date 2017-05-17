@@ -38,7 +38,7 @@
     - [ ] Favoriler
     - [ ] İzlenecekler
     - [ ] Yorumlar
-    - [ ] İzledinilen bölümler
+    - [ ] İzlenilen bölümler
     - [ ] Sosyal ağlar
     - [ ] "Video izle", X saat boyunca reklam görüntüleme sistemi
   - [ ] Raporlama sistemi
