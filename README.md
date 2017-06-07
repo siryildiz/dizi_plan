@@ -9,8 +9,8 @@
     - [ ] Dizi oyuncuları
     - [ ] Youtube trailer
   - [ ] Dizi takvimi
-  - [ ] Bölüm sayfası
-    - [ ] Yorumlar
+  - [x] Bölüm sayfası
+    - [x] Yorumlar
       - [ ] Popüler yorumlar (5 beğeni üstüyse gözükecek)
       - [ ] "Spoiler" yorumları
       - [ ] Yanıtlama
