@@ -19,7 +19,7 @@
       - [ ] Yorumu düzenlemek için 1 saat limiti, 1 saat sonra yorum yöneticiye gidecek
       - [ ] Raporlama
     - [ ] Raporlama
-    - [ ] Diğer bölümler
+    - [x] Diğer bölümler
     - [ ] İzlenme sayısı
     - [ ] Player
       - [ ] Player seçimi
@@ -30,8 +30,8 @@
   - [ ] Son eklenen (popüler dizilerden) bölümler
   - [x] Son eklenen bölümler
 - [ ] Dizi takvimi
-- [ ] Kategoriler
-  - [ ] Kategoriye göre diziler
+- [x] Kategoriler
+  - [x] Kategoriye göre diziler
 - [ ] Üyelik sistemi
   - [ ] Bildirimler
   - [ ] Favoriler
