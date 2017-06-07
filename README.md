@@ -28,8 +28,10 @@
 - [ ] Arama sistemi
 - [ ] Ana sayfa
   - [ ] Son eklenen (popüler dizilerden) bölümler
-  - [ ] Son eklenen bölümler
+  - [x] Son eklenen bölümler
 - [ ] Dizi takvimi
+- [ ] Kategoriler
+  - [ ] Kategoriye göre diziler
 - [ ] Üyelik sistemi
   - [ ] Bildirimler
   - [ ] Favoriler
