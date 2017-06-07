@@ -12,7 +12,7 @@
   - [x] Bölüm sayfası
     - [x] Yorumlar
       - [ ] Popüler yorumlar (5 beğeni üstüyse gözükecek)
-      - [ ] "Spoiler" yorumları
+      - [x] "Spoiler" yorumları
       - [ ] Yanıtlama
       - [ ] Yorumu beğendim|beğenmedim
       - [ ] AJAX'lı sayfalar arası geçiş
