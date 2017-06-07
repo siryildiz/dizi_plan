@@ -29,7 +29,7 @@
   
 - [ ] Genel
   - [ ] En çok izlenenler (gün, hafta ve ay baz alınarak)
-  - [ ] Kategoriler [Genel]
+  - [x] Kategoriler [Genel]
   - [ ] Header'a autocomplete'li arama kutucuğu
   - [ ] İletişim sayfası
   - [ ] Üyelik Sistemi
