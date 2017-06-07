@@ -1,0 +1,38 @@
+# Yapılacaklar
+
+- [ ] Dizi
+  - [ ] Dizi sayfası
+    - [ ] Yorum sistemi
+    - [ ] Favorilere ekleme
+    - [ ] Dizi bölümleri
+    - [ ] Dizinin kategorilerini çekme
+    - [ ] Dizi oyuncuları
+    - [ ] Youtube trailer
+  - [ ] Dizi takvimi
+  - [ ] Bölüm sayfası
+    - [ ] Yorumlar
+      - [ ] Popüler yorumlar (5 beğeni üstüyse gözükecek)
+      - [ ] "Spoiler" yorumları
+      - [ ] Yanıtlama
+      - [ ] Yorumu beğendim|beğenmedim
+      - [ ] AJAX'lı sayfalar arası geçiş
+      - [ ] Yorumu düzenlemek için 1 saat limiti, 1 saat sonra yorum yöneticiye gidecek
+      - [ ] Raporlama
+    - [ ] Raporlama
+    - [ ] Diğer bölümler
+    - [ ] İzlenme sayısı
+    - [ ] Player
+      - [ ] Player seçimi
+    - [ ] Bölümü Beğendim|beğenmedim
+    - [ ] "Sonraki bölüm" butonu
+- [ ] Arama sistemi
+- [ ] Ana sayfa
+  - [ ] Son eklenen (popüler dizilerden) bölümler
+  - [ ] Son eklenen bölümler
+- [ ] Dizi takvimi
+- [ ] Üyelik sistemi
+  - [ ] Bildirimler
+  - [ ] Favoriler
+  - [ ] İzlenecekler
+  - [ ] İzlenenler
+  - [ ] Yorumlar
